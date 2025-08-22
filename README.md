@@ -145,6 +145,11 @@ This is an academic project demonstrating database design principles. Feel free 
 
 This project is created for educational purposes as part of a database course curriculum.
 
+
+## Credits
+
+- **Authors:** [Miguel Silva](https://github.com/MiguelDzn2), [Brandon Mejia](https://github.com/kanekitakitos)
+
 ---
 
 **Note**: This project demonstrates advanced database concepts and is suitable for students and developers looking to understand complex database design patterns and SQL implementations.
